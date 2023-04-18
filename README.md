@@ -95,7 +95,7 @@ _To execute the following commands, open a CMD, Bash, or Powershell window by na
 3. Navigate to the directory where the repository was downloaded
 
     ```bash
-    cd Auto-GPT
+    cd cfg-GPT
     ```
 
 4. Install the required dependencies
